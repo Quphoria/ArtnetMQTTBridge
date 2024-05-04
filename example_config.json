@@ -1,0 +1,14 @@
+{
+    "MQTT Server Address": "example.com",
+    "MQTT Server Port": 1883,
+    "MQTT Username": "",
+    "MQTT Password": "",
+    "MQTT Topic": "light/[NUM]",
+    "MQTT QoS": 1,
+    "MQTT Retain": false,
+    "MQTT Rebroadcast Time": 60,
+    "Channels per Light": 4,
+    "Number of Lights": 1,
+    "ArtNet Start Universe": 0,
+    "ArtNet Number Universes": 1
+}
